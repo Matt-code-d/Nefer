@@ -21,7 +21,7 @@ Per avviare il progetto in locale, segui questi passaggi:
 
 1. **Clona il repository**:
    ```bash
-   git clone https://github.com/tuo-utente/nefer.git
+   git clone https://github.com/Matt-code-d/Nefer.git
 
 2. **Naviga nella cartella del progetto:**:
    ```bash
